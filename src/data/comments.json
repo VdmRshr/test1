@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "user": "User 1",
+      "comment": "some comment",
+      "date": "21.01.2020"
+    },
+    {
+      "id": "2",
+      "user": "User 2",
+      "comment": "awesome app",
+      "date": "21.03.2020"
+    },
+    {
+      "id": "4",
+      "user": "User 4",
+      "comment": "some comment number 4",
+      "date": "21.01.2020"
+    },
+    {
+      "id": "5",
+      "user": "Lorem user",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "21.01.2020"
+    },
+    {
+      "id": "2023-08-29T20:49:41.291Z",
+      "user": "Unknown user",
+      "comment": "",
+      "date": "29/7/2023"
+    },
+    {
+      "id": "2023-08-29T20:49:41.318Z",
+      "user": "Unknown user",
+      "comment": "",
+      "date": "29/7/2023"
+    },
+    {
+      "id": "id705",
+      "user": "Unknown user",
+      "comment": "new comment",
+      "date": "30/7/2023"
+    }
+  ]
+}
